@@ -1,14 +1,29 @@
 # vim-monokai
 
-Monokai color scheme for Vim converted with [coloration](http://coloration.sickill.net) from Textmate theme with the same name.
+Monokai color scheme for Vim.
 
-## Screenshots
+## Screenshot
 
-![Monokai in Vim](https://github.com/downloads/sickill/vim-monokai/vim-monokai.png)
+![Monokai in Vim](http://i.imgur.com/zuiElX2.png)
 
 ## Installation
 
-Put `monokai.vim` file in your `~/.vim/colors/` directory and add the following line to your `~/.vimrc`:
+Install this colorscheme with,
 
-    syntax enable
-    colorscheme monokai
+##### Vim-Plug (https://github.com/junegunn/vim-plug)
+
+```
+Plug 'mnpk/vim-monokai'
+```
+
+##### Vundle (https://github.com/gmarik/Vundle.vim)
+
+```
+Plugin 'mnpk/vim-monokai'
+```
+
+and add
+```
+colorscheme monokai
+```
+in your `.vimrc`
