@@ -22,4 +22,8 @@ Plug 'mnpk/vim-monokai'
 Plugin 'mnpk/vim-monokai'
 ```
 
-and add `colorscheme monokai` in your `.vimrc`
+and add
+```
+colorscheme monokai
+```
+in your `.vimrc`
