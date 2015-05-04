@@ -7,6 +7,9 @@ Monokai color scheme for Vim.
 ![Monokai in Vim](http://i.imgur.com/zuiElX2.png)
 
 ## Installation
+
+Install this colorscheme with,
+
 ##### Vim-Plug (https://github.com/junegunn/vim-plug)
 
 ```
@@ -18,3 +21,5 @@ Plug 'mnpk/vim-monokai'
 ```
 Plugin 'mnpk/vim-monokai'
 ```
+
+and add `colorscheme monokai` in your `.vimrc`
